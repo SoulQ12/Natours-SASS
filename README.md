@@ -1,9 +1,9 @@
 # Natours | Float layout practice website | First project
-# In order to run it you have to install sass.
-1) npm i node-sass --save
+# In order to run in you need to install live-server and scss
+1. npm i scss
+2. npm i
+3. npm run watch:scss -w
+4. npm run devserver
 
-2) npm run watch:sass
-# You may also install live-server and run with it.
-1) npm i live-server -g
 
-2) npm run devserver
+
